@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flixdin ( Connect with aspiring Film-makers)<br>👯 I’m looking to collaborate on iOS Projects<br>🌱 I’m currently learning AWS, MERN Full Stack<br>💬 Ask me about SwiftUI, Firebase<br>⚡ Fun fact I may have a slight addiction to cricket. It's like a bug that I just can't shake off!"
+🔭 I’m currently working on Flixdin ( Connect with aspiring Film-makers)<br>👯 I’m looking to collaborate on iOS Projects<br>🌱 I’m currently learning AWS, MERN Full Stack<br>💬 Ask me about SwiftUI, Firebase<br>⚡ Fun fact I may have a slight addiction to cricket. It's like a bug that I just can't shake off!
 
 
 ## 🌐 Socials:
